@@ -11,4 +11,10 @@ wheels/
 .python-version
 pyproject.toml
 
-test.txt
+
+# env variables
+.env
+
+uv.lock
+
+*/__pycache__
